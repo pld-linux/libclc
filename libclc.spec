@@ -3,7 +3,7 @@ Summary:	ISO C implementation of an ad-hoc extension library
 Summary(pl.UTF-8):	Implementacja ISO C biblioteki rozszerzeń
 Name:		libclc
 Version:	0.1.5
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/libclc/%{name}-%{version}.tar.gz
